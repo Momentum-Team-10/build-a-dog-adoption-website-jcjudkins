@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+div {
+    font-family: 'Open Sans';
+    padding: 20px;
+}
+
+.header{
+    color: white;
+    background-color: #004175;
+    width: 100%;
+    padding: 10px;
+    border-bottom: 3px solid #89DEEF;
+    
+}
+
+/* .main{
+
+}
+
+.footer{
+
+} */
