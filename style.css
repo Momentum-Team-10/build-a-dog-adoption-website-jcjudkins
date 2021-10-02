@@ -17,10 +17,24 @@ div {
     
 }
 
-/* .main{
-
+.traits{
+    flex-wrap: wrap;
 }
 
-.footer{
+.container{
+    /* flex-wrap: wrap; */
+    /* display: flexbox; */
+    display: flex;
+    flex-wrap: wrap;
+}
 
-} */
+
+il {background: #89DEEF;
+    width: 100px;
+    height: 100px;
+    padding: 1px 5px 1px 5px;
+    border-radius: 20px;
+
+}
+/* trying to fix .contianer. looking at grid vs flexbox. I think i need to fix picture size first */
+
