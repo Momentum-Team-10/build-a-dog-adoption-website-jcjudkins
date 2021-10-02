@@ -21,9 +21,21 @@ div {
     flex-wrap: wrap;
 }
 
+.card{
+    width: 33.3%;
+}
+
+img{
+    float: left;
+    width:  200px;
+    height: 200px;
+    object-fit: cover;
+
+    
+}
+
 .container{
-    /* flex-wrap: wrap; */
-    /* display: flexbox; */
+
     display: flex;
     flex-wrap: wrap;
 }
